@@ -1,7 +1,7 @@
 # Lab 01: FURPS+ Drone Delivery
 
-**Name:** [Your Full Name]
-**Index Number:** [Your Index Number]
+**Name:** [THEOPHILUS TWUM]
+**Index Number:** [226008592]
 
 ## System Description
 An autonomous drone that delivers drugs from a central pharmacy or depot to a hospital. It plans its own route, flies without a pilot, lands at a designated point, and hands over the package to authorized hospital staff.
