@@ -1,7 +1,7 @@
 # Lab 03: University Enrollment DDD
 
-**Name:** [Your Full Name]
-**Index Number:** [Your Index Number]
+**Name:** [TWUM THEOPHILUS]
+**Index Number:** [226008592]
 
 ## Objective
 Model the **CourseEnrollment** aggregate root, enforce invariant limits, and emit domain events, using Domain-Driven Design (DDD).
