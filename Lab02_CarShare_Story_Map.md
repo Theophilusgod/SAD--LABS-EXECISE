@@ -1,7 +1,7 @@
 # Lab 02: Car-Share Story Map
 
-**Name:** [Your Full Name]
-**Index Number:** [Your Index Number]
+**Name:** [TWUM THEOPHILUS]
+**Index Number:** [226008592]
 
 ## System Description
 A digital peer-to-peer car sharing application where **car owners** list their vehicles and **renters** book them for short periods. The app handles listing, searching, booking, payment, pick-up, return and reviews.
